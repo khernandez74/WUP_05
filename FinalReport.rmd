@@ -49,7 +49,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-This drug is working backwards
+This drug is not working correctly. If anything it is working backwards.
 
 ## Inferential Results
 
