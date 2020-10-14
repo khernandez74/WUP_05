@@ -61,7 +61,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-the odds of getting the aids is 1 1/2 if you take this drug if you take the placeboo. this is making the chances bigger and higher.
+If the null hypothesis was in compliant the way it should of come out is 172 people should of taken the drug and 184 should of taken the placebo, if it was exactly confirming the null hypothesis. But it did not come out that way. The chances of coming out this way that the null hypothesis was true is .0001, which is very low chances.The odds of getting the aids if you take the drug is 1 1/2 to 1 1/2 times more chances of getting aids if you take this drug than you did if you took the placebo. This is making the chances bigger and higher.
 
 
 # Discussion and Conclusion
