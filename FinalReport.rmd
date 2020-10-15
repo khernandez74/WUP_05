@@ -37,7 +37,7 @@ barchartGC(~infected + treatment,data=women)
 barchartGC(~infected + treatment,data=women, type="percent")
 ```
 
-As far as the chart goes we can see that the drug is working backwards. It does not looke like is working at all. Giving the choice of the drug or placebo to prevent aids, I would choose the placebo. It looks like the placebo works better than the drug to prevent aids. 
+As far as the chart goes we can see that the drug is working backwards. It does not look like is working at all. Giving the choice of the drug or placebo to prevent aids, I would choose the placebo. It looks like the placebo works better than the drug to prevent aids. 
 
 ### Numerical Descriptive Results
 
@@ -61,11 +61,11 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-If the null hypothesis was in compliant the way it should of come out is 172 people should of taken the drug and 184 should of taken the placebo, if it was exactly confirming the null hypothesis. But it did not come out that way. The chances of coming out this way that the null hypothesis was true is .0001, which is very low chances.The odds of getting the aids if you take the drug is 1 1/2 to 1 1/2 times more chances of getting aids if you take this drug than you did if you took the placebo. This is making the chances bigger and higher.
+If the null hypothesis was in compliant the way it should of come out is, 172 people should of taken the drug and 184 should of taken the placebo, if this was confirming the null hypothesis. But it did not come out that way. The chances of coming out this way that the null hypothesis was true is .0001, which is very low chances.The odds of getting the aids if you take the drug is 1 1/2 to 1 1/2 times more chances of getting aids if you take this drug than you did if you took the placebo. This is making the chances bigger and higher.
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-We can see the relationship between taking the drug or placebo to prevent aids. There is a difference if you take the drug, than you will get more chances of getting aids. The relationship between taking the drug and getting aids is that taking the drug seems to not work so we reject the null hypothesis that states there is no relationship and concludes that the relationship is negative. There is a relationship and its backwards than what we want. This drug will fail because it is working in the wrong direction and the relationship is working backwards. Between taking the drug or taking the placebo, the drug will increase the chances of getting aids.
+We can see the relationship between taking the drug or placebo to prevent aids. There is a difference if you take the drug, you will get more chances of getting aids. The relationship between taking the drug and getting aids is that taking the drug seems to not work so we reject the null hypothesis that states there is no relationship and concludes that the relationship is negative. There is a relationship and its backwards than what we want. This drug will fail because it is working in the wrong direction and the relationship is working backwards. Between taking the drug or taking the placebo, the drug will increase the chances of getting aids.
